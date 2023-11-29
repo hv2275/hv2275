@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hv2275
+- 👋 Hi, I’m @hvesproumis
 - 👀 I’m interested in aerospace and aeronautical engineering 
 - 🌱 I’m currently learning 4 years of MAE in 1 year, including how to code, and like it very much
 - 📫 To reach me, use GitHub messenger
